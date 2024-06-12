@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Setting Up Environment Variables
+
+To configure the environment variables for this project, follow these steps:
+
+1. Locate the `.env.example` file in the root directory of the project.
+
+2. Create a new file named `.env` in the same directory.
+
+3. Copy the contents of `.env.example` into the newly created `.env` file.
+
+   You can do this using the following command in your terminal:
+   ```bash
+   cp .env.example .env
+
 
 ## Available Scripts
 
